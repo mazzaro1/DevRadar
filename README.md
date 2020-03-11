@@ -1,2 +1,2 @@
-# DevRadar
-Aplicação que localiza desenvolvedores cadastrados utilizando geolocalização do navegador.
+# RadarDev
+Aplicação responsavel pelo cadastro e mapeamento de desenvolvedores, utilizando multiplataformas sendo: web, android e IOS
